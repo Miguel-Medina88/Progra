@@ -67,6 +67,7 @@ boton_resta.pack(pady=20)
 boton_resta = tk.Button(ventana, text="Multiplicacion", command=multiplicacion)
 boton_resta.pack(pady=20)
  
+ 
 ventana.mainloop()
  
  
